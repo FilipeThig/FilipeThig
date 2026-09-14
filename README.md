@@ -1,4 +1,6 @@
-## Oi👋
+
+#  Filipe Thiago
+### Analista de Dados em Formação | SQL • Power BI • Python
 
 <!--
 **FilipeThig/FilipeThig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
