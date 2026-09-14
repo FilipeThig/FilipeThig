@@ -1,7 +1,10 @@
 
-#  Filipe Thiago
-### Analista de Dados em Formação | SQL • Power BI • Python
+# Filipe Thiago
+### Analista de Dados em Formação 
 
+![Skills](https://skillicons.dev/icons?i=arch,vscode,python,lua,mysql)
+
+  
 <!--
 **FilipeThig/FilipeThig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
