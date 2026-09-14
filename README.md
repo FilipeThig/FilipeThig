@@ -1,8 +1,8 @@
 
-# Filipe Thiago
-### Analista de Dados em Formação 
+#  Hello There!👋
+### Filipe Thiago | Analista de Dados em Formação 
 
-![Skills](https://skillicons.dev/icons?i=arch,vscode,python,lua,mysql)
+![Skills](https://skillicons.dev/icons?i=github,python,mysql,lua,vscode)
 
   
 <!--
